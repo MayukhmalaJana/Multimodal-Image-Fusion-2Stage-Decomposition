@@ -3,7 +3,7 @@
 # Multimodal Medical Image Fusion using Two-Stage Decomposition Technique to Combine the Significant Features of Spatial Fuzzy Plane and Transformed Frequency Plane
 
 
-This is the implementation for [Multimodal Medical Image Fusion Using Two- Stage Decomposition Technique to Combine the Significant Features of Spatial Fuzzy Plane and Transformed Frequency Plane] (https://ieeexplore.ieee.org/document/10026817)
+This is the implementation for [Multimodal Medical Image Fusion Using Two- Stage Decomposition Technique to Combine the Significant Features of Spatial Fuzzy Plane and Transformed Frequency Plane (https://ieeexplore.ieee.org/document/10026817)]
 
 _This paper was published in 2023 in IEEE Transactions on Instrumentation and Measurement ( Volume: 72)_
 
